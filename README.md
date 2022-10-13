@@ -33,11 +33,9 @@ I'm currently looking for new opportunities.
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## Statistics
-<div style="display:flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=hyunchol-jun&show_icons=true&theme=github_dark&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunchol-jun&layout=compact&theme=github_dark&hide_border=true" />
-</div>
 
 ## Get in touch
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/hyunchol-jun)
