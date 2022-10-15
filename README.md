@@ -24,13 +24,29 @@ I'm currently looking for new opportunities.
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Database
+### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+## Recent Projects
+
+### BetterEat
+
+BetterEat is a web application that helps users to cook more and eat healthier by suggesting recipes based on their food preferences. Users can also manage their meal plans with stored information such as recipes, inventory and grocery lists.
+
+#### Live Website
+http://better-eat.hyuncholjun.com/
+
+#### Demo
+https://user-images.githubusercontent.com/94641590/196005438-3851c1bd-06b7-403e-94ef-0edea8c6a2a6.mp4
+
+#### Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunchol-jun&repo=better-eat-client&theme=github_dark)](https://github.com/hyunchol-jun/better-eat-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunchol-jun&repo=better-eat-server)](https://github.com/hyunchol-jun/better-eat-server)
 
 ## Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=hyunchol-jun&show_icons=true&theme=github_dark&hide_border=true" />
@@ -39,6 +55,7 @@ I'm currently looking for new opportunities.
 
 ## Get in touch
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/hyunchol-jun)
+
 <!--
 **hyunchol-jun/hyunchol-jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
