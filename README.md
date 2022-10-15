@@ -45,8 +45,8 @@ http://better-eat.hyuncholjun.com/
 https://user-images.githubusercontent.com/94641590/196005438-3851c1bd-06b7-403e-94ef-0edea8c6a2a6.mp4
 
 #### Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunchol-jun&repo=better-eat-client&theme=github_dark)](https://github.com/hyunchol-jun/better-eat-client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunchol-jun&repo=better-eat-server)](https://github.com/hyunchol-jun/better-eat-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunchol-jun&repo=better-eat-client&theme=github_dark&hide_border=true)](https://github.com/hyunchol-jun/better-eat-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunchol-jun&repo=better-eat-server&theme=github_dark&hide_border=true)](https://github.com/hyunchol-jun/better-eat-server)
 
 ## Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=hyunchol-jun&show_icons=true&theme=github_dark&hide_border=true" />
