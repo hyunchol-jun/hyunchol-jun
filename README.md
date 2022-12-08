@@ -18,7 +18,6 @@ I'm a recent Web Development bootcamp graduate who has a background in electrica
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,14 +30,14 @@ I'm a recent Web Development bootcamp graduate who has a background in electrica
 ## What I'm learning
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Recent Projects
 
 ### BetterEat
 
-BetterEat is a web application that helps users to cook more and eat healthier by suggesting recipes based on their food preferences. Users can also manage their meal plans with stored information such as recipes, inventory and grocery lists.
+BetterEat is a web application that helps users to cook more and eat healthier by suggesting recipes based on their food preferences. Users can also manage their meal plans with stored information such as recipes, inventory and grocery lists. If you want to learn more about the features, visit [the front-end repo](https://github.com/hyunchol-jun/better-eat-client)!
 
 #### Live Website
 http://better-eat.hyuncholjun.com/
@@ -51,7 +50,7 @@ https://user-images.githubusercontent.com/94641590/196005438-3851c1bd-06b7-403e-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunchol-jun&repo=better-eat-server&theme=github_dark&hide_border=true)](https://github.com/hyunchol-jun/better-eat-server)
 
 ## Statistics
-<div style="display: flex; align-items: start; gap: 1rem;">
+<div style="display: flex; align-items: flex-start; gap: 1rem;">
 <img src="https://github-readme-stats.vercel.app/api?username=hyunchol-jun&show_icons=true&theme=github_dark&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunchol-jun&layout=compact&theme=github_dark&hide_border=true" />
