@@ -40,7 +40,7 @@ I'm a recent Web Development bootcamp graduate who has a background in electrica
 BetterEat is a web application that helps users to cook more and eat healthier by suggesting recipes based on their food preferences. Users can also manage their meal plans with stored information such as recipes, inventory and grocery lists. If you want to learn more about the features, visit [the front-end repo](https://github.com/hyunchol-jun/better-eat-client)!
 
 #### Live Website
-http://better-eat.hyuncholjun.com/
+https://better-eat.hyuncholjun.com/
 
 #### Demo
 https://user-images.githubusercontent.com/94641590/196005438-3851c1bd-06b7-403e-94ef-0edea8c6a2a6.mp4
@@ -48,6 +48,19 @@ https://user-images.githubusercontent.com/94641590/196005438-3851c1bd-06b7-403e-
 #### Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunchol-jun&repo=better-eat-client&theme=github_dark&hide_border=true)](https://github.com/hyunchol-jun/better-eat-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyunchol-jun&repo=better-eat-server&theme=github_dark&hide_border=true)](https://github.com/hyunchol-jun/better-eat-server)
+
+### Boom Chicken
+
+This is a website I created for a client who runs a local restaurant.
+Because it's a relatively simple static website, I decided to make it with Gatsby, one of the most popular static-site generators. Gatsby generates all the HTML pages at build time rather than running JavaScript code to generate HTML at runtime in users' devices; therefore more performant for static sites than regular React. 
+With that and Gatsby's image optimization along with the lazy-loading, I achieved 99 Lighthouse scores on performance, compared to 65 with the same contents built with `create-react-app`.
+<img width="815" alt="Screen Shot 2022-12-08 at 3 09 20 PM" src="https://user-images.githubusercontent.com/94641590/206558616-f6164da2-4d54-409e-8c31-4f4527145bf0.png">
+
+#### Live Website
+https://boom-chicken.com/
+
+#### Demo
+https://user-images.githubusercontent.com/94641590/206553689-a362e04c-f146-4347-b2b4-1c73ddec5650.mp4
 
 ## Statistics
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
