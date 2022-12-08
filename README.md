@@ -54,6 +54,7 @@ https://user-images.githubusercontent.com/94641590/196005438-3851c1bd-06b7-403e-
 This is a website I created for a client who runs a local restaurant.
 Because it's a relatively simple static website, I decided to make it with Gatsby, one of the most popular static-site generators. Gatsby generates all the HTML pages at build time rather than running JavaScript code to generate HTML at runtime in users' devices; therefore more performant for static sites than regular React. 
 With that and Gatsby's image optimization along with the lazy-loading, I achieved 99 Lighthouse scores on performance, compared to 65 with the same contents built with `create-react-app`.
+
 <img width="815" alt="Screen Shot 2022-12-08 at 3 09 20 PM" src="https://user-images.githubusercontent.com/94641590/206558616-f6164da2-4d54-409e-8c31-4f4527145bf0.png">
 
 #### Live Website
